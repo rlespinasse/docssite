@@ -1,5 +1,5 @@
 site:
-  title: Romain Lespinasse // Docs
+  title: "Romain Lespinasse // Docs"
   start_page: guidelines::index
   url: https://rlespinasse.github.io/docssite
 content:

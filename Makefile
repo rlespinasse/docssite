@@ -9,5 +9,5 @@ open-it:
 .PHONY: deploy-it
 deploy-it: build-it
 	git add -A .
-	git commit -am "Build a new documentation site"
+	git commit -am "Build a new documentation site [ci skip]"
 	git push origin master
