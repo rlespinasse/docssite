@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://rlespinasse.github.io/docssite/buildtools/v1.0/index.html</loc>
-<lastmod>2018-03-27T10:06:42.742Z</lastmod>
+<loc>https://rlespinasse.github.io/docssite/buildtools/v1.1-SNAPSHOT/index.html</loc>
+<lastmod>2018-04-02T14:24:33.364Z</lastmod>
 </url>
 <url>
-<loc>https://rlespinasse.github.io/docssite/buildtools/v1.1-SNAPSHOT/index.html</loc>
-<lastmod>2018-03-27T10:06:42.742Z</lastmod>
+<loc>https://rlespinasse.github.io/docssite/buildtools/v1.0/index.html</loc>
+<lastmod>2018-04-02T14:24:33.364Z</lastmod>
 </url>
 </urlset>
